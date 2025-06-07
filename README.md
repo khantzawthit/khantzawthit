@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Khant Zaw Thit</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
-- 🔭 I’m currently working on **shopping eCommerce**  
+- 🔭 I’m currently working on **shopping eCommerce**
 - 🌱 I’m currently learning **JavaScript, TypeScript**
 
 ---
 
 ### 🌐 Connect with me:
+
 <!-- Add links later if you want -->
 
 ---
 
 ### 🛠️ Languages and Tools:
+
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -31,6 +33,7 @@
 ---
 
 ### 📊 GitHub Stats:
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khantzawthit&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
@@ -38,3 +41,8 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khantzawthit&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+
+##
+
+<br clear="both">
+<img src="image.svg"/>
