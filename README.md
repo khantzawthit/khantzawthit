@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khant Zaw Thit</h1>
-<h3 align="center">A passionate frontend developer from Myanmar</h3>
+
 
 - 🔭 I’m currently working on **shopping eCommerce**
 - 🌱 I’m currently learning **JavaScript, TypeScript**
